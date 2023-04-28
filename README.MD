@@ -3,3 +3,9 @@
 ## Tecnologias Estudadas 🚀
 - html 
 - css
+
+### Aplicando estilos aos agrupamentos restantes
+
+
+### Links
+- [Yoksel - url-encoder svg](https://yoksel.github.io/url-encoder/)
